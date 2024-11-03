@@ -20,6 +20,7 @@ flutter:
   assets:
     - assets/images/drawerimage.PNG
     - assets/images/kc.jpeg
+    - assets/images/background.png
   
   fonts:
     - family: Nunito
